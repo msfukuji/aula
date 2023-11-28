@@ -1,10 +1,10 @@
 [
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "Smartphone XYZ",
-      "descricao": "Celular de última geração",
-      "valorSemDesconto": 1200.00,
-      "valorComDesconto": 999.99,
+      "img": "https://img.freepik.com/vetores-gratis/maquete-de-smartphone-de-vista-frontal-realista-moldura-roxa-de-iphone-movel-com-display-branco-em-branco-vetor_90220-959.jpg?w=740&t=st=1701198256~exp=1701198856~hmac=dca8c06156a540e626e32d902f7b32a0767c8147921a4d3cf0b493ac368e8e44",
+      "nome": "Smartphone",
+      "descricao": "Descubra a mais recente tecnologia em comunicação com nossos celulares de última geração.",
+      "valorSemDesconto": 2596.99,
+      "valorComDesconto": 1997.99,
       "tipoEntrega": "Frete GRÁTIS"
     },
     {

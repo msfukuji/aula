@@ -8,55 +8,55 @@
       "tipoEntrega": "Frete GRÁTIS"
     },
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "Notebook ABC",
-      "descricao": "Notebook ultrafino e potente",
-      "valorSemDesconto": 2500.00,
-      "valorComDesconto": 1999.99,
+      "img": "https://visme.co/blog/wp-content/uploads/2021/06/the-godfather-book-cover.png",
+      "nome": "Livro",
+      "descricao": "Aprenda como criar páginas incríveis com HTML e CSS.",
+      "valorSemDesconto": 19.99,
+      "valorComDesconto": 9.99,
       "tipoEntrega": "RECEBA HOJE"
     },
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "PlayStation 5",
-      "descricao": "Console de última geração",
-      "valorSemDesconto": 2300.00,
-      "valorComDesconto": 2099.99,
+      "img": "https://www.bringit.com.br/blog/wp-content/uploads/2011/12/notebook.png",
+      "nome": "Notebook",
+      "descricao": "Eleve sua produtividade com nossos notebooks de alto desempenho.",
+      "valorSemDesconto": 10549.99,
+      "valorComDesconto": 7549.99,
       "tipoEntrega": "Frete GRÁTIS"
     },
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "Kit de Maquiagem Glamour",
-      "descricao": "Produtos de beleza de alta qualidade",
-      "valorSemDesconto": 150.00,
-      "valorComDesconto": 129.99,
+      "img": "https://portaledicase.com/wp-content/uploads/2023/03/PlayStation-1-1024x683.png",
+      "nome": "Playstation 7",
+      "descricao": "Mergulhe no mundo dos jogos com nosso console de última geração.",
+      "valorSemDesconto": 6999.00,
+      "valorComDesconto": 4499.99,
       "tipoEntrega": "RECEBA HOJE"
     },
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "Secador de Cabelo Profissional 1",
-      "descricao": "Secador potente para resultados incríveis",
+      "img": "https://d2r9epyceweg5n.cloudfront.net/stores/003/626/214/products/scfa30fae564d4779acad9fa7fa83b256n-e08f6db8caeb0dc52e16964868276018-1024-1024.webp",
+      "nome": "Camiseta Gato Guitarra",
+      "descricao": "Mostre seu amor pelos felinos com nossa camiseta de gato.",
       "valorSemDesconto": 80.00,
       "valorComDesconto": 69.99,
       "tipoEntrega": "Frete GRÁTIS"
     },
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "Secador de Cabelo Profissional 2",
-      "descricao": "Secador potente para resultados incríveis",
+      "img": "https://i.pinimg.com/550x/f6/ae/8e/f6ae8eb9d88b85980a0d3bdf76e557e8.jpg",
+      "nome": "Tenis",
+      "descricao": "Escolha entre uma variedade de modelos para se destacar com elegância em qualquerocasião.",
       "valorSemDesconto": 80.00,
       "valorComDesconto": 69.99,
       "tipoEntrega": "Frete GRÁTIS"
     },
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "Secador de Cabelo Profissional 3",
-      "descricao": "Secador potente para resultados incríveis",
+      "img": "https://img.freepik.com/fotos-premium/gato-baixo-monstro-fofo-emo-personagem-de-desenho-animado-design-de-camiseta-livro-de-arte-imprimivel-esboco-de-tatuagem_997345-2115.jpg?w=826",
+      "nome": "Camiseta Gato Baixista",
+      "descricao": "Apresenta um novo design para expressar seu carinho pelos felinos.",
       "valorSemDesconto": 80.00,
       "valorComDesconto": 69.99,
       "tipoEntrega": "Frete GRÁTIS"
     },
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
+      "img": "https://fraguru.com/mdimg/perfume/375x500.38390.jpg",
       "nome": "Perfume Elegance",
       "descricao": "Fragrância sofisticada e duradoura",
       "valorSemDesconto": 120.00,
@@ -64,7 +64,7 @@
       "tipoEntrega": "RECEBA HOJE"
     },
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
+      "img": "https://img.elo7.com.br/product/zoom/42840D6/25-vale-presente-cartao-presente-para-clientes-hotstamping-cartao-presente.jpg",
       "nome": "Vale presente",
       "descricao": "Compre e faça alguém feliz",
       "valorSemDesconto": 90.00,

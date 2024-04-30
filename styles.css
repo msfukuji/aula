@@ -105,7 +105,7 @@ footer {
     }
 
     header nav ul {
-        max-width: 10%;
+        max-width: 100%;
     }
 
     header nav ul li a {

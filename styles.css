@@ -100,11 +100,11 @@ footer {
 
 @media (max-width: 800px) {
 
-    body {
-        max-width: 100%;
+    header {
+        max-width: 50%;
     }
 
-    header {
+    max-inline-size: ; {
         max-width: 100%;
     }
 }

@@ -107,13 +107,14 @@ footer {
     header nav ul {
         max-width: 100%;
         text-align: center;
-        white-space: nowrap;
     }
+
     header nav ul li a {
         margin: 0 1rem;
         color: #ccc;
         font-size: 1rem;
         text-decoration: none;
+        white-space: nowrap;
     }
 
     main {

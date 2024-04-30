@@ -145,11 +145,14 @@ footer {
     .close-menu:checked~.close-menu-label::after {
         content: '×';
     }
-
-    .menu-spacing {
-        display: none;
-    }
     
+    .close-menu {
+        display: none;
+        position: fixed;
+        z-index: 2;
+        top: 0;
+        left: 0;
+
     .produtos__lista {
         display: grid;
         grid-template-columns: repeat(2, 1fr);

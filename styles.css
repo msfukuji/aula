@@ -104,8 +104,8 @@ footer {
         max-width: 100%;
     }
 
-    header nav {
-        max-width: 100%;
+    header nav ul {
+        max-width: 10%;
     }
 
     main {

@@ -1,57 +1,45 @@
 @media (max-width: 1200px) {
     .menu {
-        background: var(--white-color);
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        border-bottom: 0.1rem solid var(--light-gray-color);
-        z-index: 1;
+        bottom: 0;
+        text-align: center;
     }
-    
+
+    .menu-content,
+    .menu-content ul {
+        flex-direction: column;
+        justify-content: center;
+    }
+
     .menu-content {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding-top: 0;
-        padding-bottom: 0;
+        height: 100vh;
     }
     
-    .menu h1 {
-        font-size: 2.3rem;
-        color: var(--primary-color);
+    .menu {
+        display: none;
+    }
+
+    .close-menu-label::after {
+        content: '≡';
+        position: fixed;
+        z-index: 2;
+        top: 1rem;
+        right: 2rem;
+        background: var(--primary-color);
+        color: var(--white-color);
+        font-size: 3rem;
+        line-height: 3rem;
+        width: 3rem;
+        height: 3rem;
+        text-align: center;
+        padding: 0.5rem;
+        cursor: pointer;
     }
     
-    .menu h1 a {
-        color: inherit;
-    }
-    
-    .menu ul {
-        list-style: none;
-        display: flex;
-    }
-    
-    .menu ul li a {
+    .close-menu:checked~.menu {
         display: block;
-        padding: 2rem;
-        font-size: 1.8rem;
-        color: var(--primary-color);
-        position: relative;
     }
     
-    .menu ul li a::after {
-        content: '';
-        position: absolute;
-        bottom: 1rem;
-        left: 50%;
-        width: 0;
-        height: 0.2rem;
-        background: var(--secondary-color);
-        transition: all 300ms ease-in-out;
-    }
-    
-    .menu ul li a:hover::after {
-        width: 50%;
-        left: 25%;
+    .close-menu:checked~.close-menu-label::after {
+        content: '×';
     }
 }

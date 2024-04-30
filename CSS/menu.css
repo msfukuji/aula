@@ -1,4 +1,4 @@
-.menu {
+/* .menu {
     background: var(--white-color);
     position: fixed;
     top: 0;
@@ -52,4 +52,4 @@
 .menu ul li a:hover::after {
     width: 50%;
     left: 25%;
-}
+} */

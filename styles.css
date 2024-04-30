@@ -102,6 +102,7 @@ footer {
 
     header {
         max-width: 100%;
+        white-space: nowrap;
     }
 
     header nav ul {
@@ -114,7 +115,6 @@ footer {
         color: #ccc;
         font-size: 1rem;
         text-decoration: none;
-        white-space: nowrap;
     }
 
     main {

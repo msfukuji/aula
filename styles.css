@@ -146,6 +146,10 @@ footer {
         content: '×';
     }
 
+    .menu-spacing {
+        display: none;
+    }
+    
     .produtos__lista {
         display: grid;
         grid-template-columns: repeat(2, 1fr);

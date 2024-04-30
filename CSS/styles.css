@@ -145,7 +145,7 @@ footer {
         max-width: 100%;
     } */
 
-    .menu {
+    header {
         bottom: 0;
         text-align: center;
     }
@@ -160,7 +160,7 @@ footer {
         height: 100vh;
     }
     
-    .menu {
+    header {
         display: none;
     }
 

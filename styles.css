@@ -109,8 +109,7 @@ footer {
     }
 
     header nav ul li a {
-        display: block;
-        flex-wrap: nowrap;
+        display:inline;
         margin: 0 1rem;
         color: #ccc;
         font-size: 1rem;

@@ -9,7 +9,6 @@ header {
     text-align: center;
     padding: 2rem 0;
     width: 100%;
-    word-wrap: nowrap;
 }
 
 header nav ul {
@@ -23,6 +22,7 @@ header nav ul li a {
     color: #ccc;
     font-size: 1.2rem;
     text-decoration: none;
+    word-wrap: nowrap;
 }
 
 header nav ul li a:hover {

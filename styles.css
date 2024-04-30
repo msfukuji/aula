@@ -101,7 +101,11 @@ footer {
 @media (max-width: 800px) {
 
     header {
-        max-width: 50%;
+        max-width: 100%;
+    }
+
+    header nav {
+        max-width: 100%;
     }
 
     main {

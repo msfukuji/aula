@@ -103,4 +103,8 @@ footer {
     body {
         max-width: 100%;
     }
+
+    header {
+        max-width: 100%;
+    }
 }

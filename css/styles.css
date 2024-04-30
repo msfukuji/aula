@@ -22,7 +22,7 @@ header nav ul li a {
     color: #ccc;
     font-size: 1.2rem;
     text-decoration: none;
-    word-wrap: nowrap;
+    white-space: nowrap;
 }
 
 header nav ul li a:hover {

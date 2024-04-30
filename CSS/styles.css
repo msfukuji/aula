@@ -200,4 +200,4 @@ footer {
         gap: var(--gap);
         counter-reset: grid-counter;
     }
-}
+    

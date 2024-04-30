@@ -54,20 +54,20 @@
     left: 25%;
 } */
 
-.menu {
+.menu-content {
     background-color: #333;
     text-align: center;
     padding: 2rem 0;
     width: 100%;
 }
 
-.menu nav ul {
+.menu-content nav ul {
     display: flex;
     justify-content: center;
     list-style: none;
 }
 
-.menu nav ul li a {
+.menu-content nav ul li a {
     margin: 0 8rem;
     color: #ccc;
     font-size: 1.2rem;
@@ -75,6 +75,6 @@
     white-space: nowrap;
 }
 
-.menu nav ul li a:hover {
+.menu-content nav ul li a:hover {
     border-bottom: 1px solid aliceblue;
 }

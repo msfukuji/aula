@@ -5,38 +5,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meus Produtos</title>
-    <link rel="stylesheet" href="CSS/menu.css">
-    <link rel="stylesheet" href="CSS/styles.css">
-    <link rel="stylesheet" href="CSS/variables.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
-    <!-- <header> -->
-        <input id="close-menu" class="close-menu" type="checkbox" aria-label="Close menu" role="button">
-        <label class="close-menu-label" for="close-menu" title="close menu"></label>
-        <aside class="menu white-bg">
-            <div>
-                <h1 onclick="getElementById('close-menu').checked=false"><a href="#home">Fukuji Shop</a></h1>
-                <nav>
-                    <ul onclick="getElementById('close-menu').checked=false"> <!-- Esta parte é JavaScript -->
-                        <li>
-                            <a href="#Games">Games</a>
-                        </li>
-                        <li>
-                            <a href="#Livros">Livros</a>
-                        </li>
-                        <li>
-                            <a href="#Eletrônicos">Eletrônicos</a>
-                        </li>
-                        <li>
-                            <a href="#Presentes">Presentes</a>
-                        </li>
-                    </ul>
-                </nav>
-            </div>
-        </aside>
-    <!-- </header> -->
-    <div class="menu-spacing"></div>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#">Fukuji Shop</a>
+                </li>
+                <li>
+                    <a href="#">Livros</a>
+                </li>
+                <li>
+                    <a href="#">Eletrônicos</a>
+                </li>
+                <li>
+                    <a href="#">Presentes</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
     <main>
         <section class="produtos">
             <ul class="produtos__lista">
@@ -147,7 +138,7 @@
                             <h3>Vale Presente R$500</h3>
                             <p>Que tal presentear quem você mais ama com muito mais amor?
                             </p>
-                            <h4>R$ 495,00<s>R$ 500,00</s></h4>
+                            <h4>R$  495,00<s>R$ 500,00</s></h4>
                             <p>Frete GRÁTIS</p>
                         </div>
                     </div>
@@ -159,10 +150,6 @@
     <footer>
         <p>&copy; Todos os direitos reservados.</p>
     </footer>
-
-    <a class="back-to-top" href="#Home">➤</a>
-
-
 </body>
 
 </html>

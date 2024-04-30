@@ -108,7 +108,7 @@ footer {
         max-width: 100%;
     }
 
-    header nav ul li {
+    header nav {
         display:inline;
     }
     header nav ul li a {

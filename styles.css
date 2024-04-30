@@ -118,3 +118,9 @@ footer {
     main {
         max-width: 100%;
     }
+
+    .produtos__lista {
+        max-width: 50%;
+        max-height: 50%;
+    }
+}

@@ -94,6 +94,10 @@ img {
 
 .close-menu {
     display: none;
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    left: 0;
 }
 
 footer {
@@ -101,6 +105,22 @@ footer {
     color: #fff;
     text-align: center;
     padding: 10px 0;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    background: var(--white-color);
+    width: 5rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color: var(--primary-color);
+    border: 0.1rem solid var(--primary-color);
+    transform: rotate(-90deg);
 }
 
 @media (max-width: 1200px) {
@@ -150,13 +170,6 @@ footer {
         content: '×';
     }
     
-    .close-menu {
-        display: none;
-        position: fixed;
-        z-index: 2;
-        top: 0;
-        left: 0;
-
     .produtos__lista {
         display: grid;
         grid-template-columns: repeat(2, 1fr);

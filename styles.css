@@ -107,9 +107,6 @@ footer {
     header nav ul {
         max-width: 100%;
         text-align: center;
-    }
-
-    header nav {
         display:inline;
     }
     header nav ul li a {

@@ -145,6 +145,25 @@ footer {
         max-width: 100%;
     } */
 
+    .menu {
+        bottom: 0;
+        text-align: center;
+    }
+
+    .menu-content,
+    .menu-content ul {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .menu-content {
+        height: 100vh;
+    }
+    
+    .menu {
+        display: none;
+    }
+
     .close-menu-label::after {
         content: '≡';
         position: fixed;
@@ -168,6 +187,10 @@ footer {
     
     .close-menu:checked~.close-menu-label::after {
         content: '×';
+    }
+
+    .menu-spacing {
+        display: none;
     }
     
     .produtos__lista {

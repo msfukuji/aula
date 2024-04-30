@@ -122,5 +122,8 @@ footer {
     .produtos__lista {
         max-width: 50%;
         max-height: 50%;
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
     }
 }

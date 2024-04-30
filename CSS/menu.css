@@ -5,20 +5,20 @@ header {
     width: 100%;
 }
 
-.menu-content {
+/* .menu-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding-top: 0;
     padding-bottom: 0;
-}
+} */
 
-.menu h1 {
+header h1 {
     font-size: 2.3rem;
     color: var(--primary-color);
 }
 
-.menu h1 a {
+header h1 a {
     color: inherit;
 }
 

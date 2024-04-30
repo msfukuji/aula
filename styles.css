@@ -120,10 +120,9 @@ footer {
     }
 
     .produtos__lista {
-        max-width: 50%;
-        max-height: 50%;
-        display: flex;
-        justify-content:center;
-        flex-wrap: wrap;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: var(--gap);
+        counter-reset: grid-counter;
     }
 }

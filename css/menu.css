@@ -78,3 +78,12 @@
 .menu-content nav ul li a:hover {
     border-bottom: 1px solid aliceblue;
 }
+
+.menu h1 {
+    font-size: 2.3rem;
+    color: var(--primary-color);
+}
+
+.menu h1 a {
+    color: inherit;
+}

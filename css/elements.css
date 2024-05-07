@@ -61,7 +61,7 @@ p {
     margin-bottom: 3rem;
 }
 
-.responsive-table {
+/* .responsive-table {
     overflow: hidden;
     overflow-x: auto;
 }
@@ -88,4 +88,4 @@ table td, table th {
 
 tfoot td, table th {
     background: var(--light-gray-color);
-}
+} */

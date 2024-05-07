@@ -24,7 +24,7 @@
         z-index: 2;
         top: 1rem;
         right: 2rem;
-        background: var(--primary-color);
+        background: var(--gray-color);
         color: var(--white-color);
         font-size: 3rem;
         line-height: 3rem;

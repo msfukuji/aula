@@ -55,10 +55,15 @@
 } */
 
 .menu-content {
-    background-color: #333;
+    /* background-color: #333;
     text-align: center;
     padding: 2rem 0;
-    width: 100%;
+    width: 100%; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 .menu-content nav ul {

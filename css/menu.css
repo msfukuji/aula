@@ -24,7 +24,7 @@
 .menu h1 a {
     color: inherit;
     text-decoration: none;
-    font-family: 'Shantell+Sans', cursive;
+    font-family: 'Shantell Sans', cursive;
     /* font-family: 'Poetsen One', sans-serif; */
     /* font-family: 'Sedan SC', serif; */
 }
@@ -41,7 +41,7 @@
     color: var(--primary-color);
     position: relative;
     text-decoration: none;
-    font-family: 'Shantel-Sans', cursive;
+    font-family: 'Shantel Sans', cursive;
     /* font-family: 'Poetsen One', sans-serif; */
     /* font-family: 'Sedan SC', serif; */
 }

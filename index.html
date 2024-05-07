@@ -24,29 +24,30 @@
     <input id="close-menu" class="close-menu" type="checkbox" aria-label="Close menu" role="button">
     <label class="close-menu-label" for="close-menu" title="close menu"></label>
     <aside class="menu white-bg">
-        <section id="home">
-            <div class="main-content menu-content">
-                <h1 onclick="getElementById('close-menu').checked=false"><a href="#home">LOGO</a></h1>
-                <nav>
-                    <ul onclick="getElementById('close-menu').checked=false"> <!-- Esta parte é JavaScript -->
-                        <li>
-                            <a href="#Games">Games</a>
-                        </li>
-                        <li>
-                            <a href="#Livros">Livros</a>
-                        </li>
-                        <li>
-                            <a href="#Eletrônicos">Eletrônicos</a>
-                        </li>
-                        <li>
-                            <a href="#Presentes">Presentes</a>
-                        </li>
-                    </ul>
-                </nav>
-            </div>
-        </section>
+        <div class="main-content menu-content">
+            <h1 onclick="getElementById('close-menu').checked=false"><a href="#home">LOGO</a></h1>
+            <nav>
+                <ul onclick="getElementById('close-menu').checked=false"> <!-- Esta parte é JavaScript -->
+                    <li>
+                        <a href="#Games">Games</a>
+                    </li>
+                    <li>
+                        <a href="#Livros">Livros</a>
+                    </li>
+                    <li>
+                        <a href="#Eletrônicos">Eletrônicos</a>
+                    </li>
+                    <li>
+                        <a href="#Presentes">Presentes</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
     </aside>
-    <div class="menu-spacing"></div>
+    <section id="home">
+        <div class="menu-spacing"></div>
+    </section>
+
     <main>
         <section class="produtos">
             <ul class="produtos__lista">

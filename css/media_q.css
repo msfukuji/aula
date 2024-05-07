@@ -2,21 +2,16 @@
     .menu {
         bottom: 0;
         text-align: center;
-        font-family: 'Shantell-Sans';
     }
 
     .menu-content,
     .menu-content ul {
         flex-direction: column;
         justify-content: center;
-        font-family: 'Shantell-Sans';
-
     }
 
     .menu-content {
         height: 100vh;
-        font-family: 'Shantell-Sans';
-
     }
     
     .menu {
@@ -38,21 +33,15 @@
         text-align: center;
         padding: 0.5rem;
         cursor: pointer;
-        font-family: 'Shantell-Sans';
-
     }
     
     .close-menu:checked~.menu {
         display: block;
-        font-family: 'Shantell-Sans';
-
     }
     
     .close-menu:checked~.close-menu-label::after {
         content: '×';
         background: var(--gray-color);
         color: var(--primary-color);
-        font-family: 'Shantell-Sans';
-
     }
 }

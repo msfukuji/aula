@@ -24,7 +24,6 @@
 
 .menu h1 a {
     color: inherit;
-    text-decoration: none;
 }
 
 .menu ul {
@@ -38,7 +37,6 @@
     font-size: 1.8rem;
     color: var(--primary-color);
     position: relative;
-    text-decoration: none;
 }
 
 .menu ul li a::after {

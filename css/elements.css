@@ -10,7 +10,8 @@ html {
 }
 
 body {
-    font-family: 'Poetsen One', sans-serif;
+    /* font-family: 'Poetsen One', sans-serif; */
+    font-family: 'Sedan Sc', serif;
     font-size: 2rem;
     color: var(--primary-color);
     line-height: 1.5;
@@ -22,7 +23,8 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Poetsen One', sans-serif;
+    /* font-family: 'Poetsen One', sans-serif; */
+font-family: 'Sedan SC', serif;
 }
 
 h1 {

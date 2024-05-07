@@ -9,7 +9,7 @@ html {
     scroll-behavior: smooth;
 }
 
-body {
+/* body {
     font-family: 'Shantell-Sans';
     font-size: 2rem;
     color: var(--primary-color);
@@ -55,7 +55,7 @@ h6 {
 
 a {
     text-decoration: none;
-}
+} */
 
 /* p {
     margin-bottom: 3rem;

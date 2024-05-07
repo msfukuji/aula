@@ -41,5 +41,7 @@
     
     .close-menu:checked~.close-menu-label::after {
         content: '×';
+        background: var(--gray-color);
+        color: var(--primary-color);
     }
 }

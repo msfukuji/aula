@@ -1,4 +1,4 @@
-/* .menu {
+.menu {
     background: var(--white-color);
     position: fixed;
     top: 0;
@@ -52,13 +52,9 @@
 .menu ul li a:hover::after {
     width: 50%;
     left: 25%;
-} */
+}
 
-.menu-content {
-    /* background-color: #333;
-    text-align: center;
-    padding: 2rem 0;
-    width: 100%; */
+/* .menu-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -91,4 +87,4 @@
 
 .menu h1 a {
     color: inherit;
-}
+} */

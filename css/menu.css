@@ -22,6 +22,7 @@
 }
 
 .menu h1 a {
+    display: flex;
     color: inherit;
     text-decoration: none;
     left: 2rem;

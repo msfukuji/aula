@@ -2,7 +2,7 @@
     background: var(--gray-color);
     position: fixed;
     top: 0;
-    left: 2rem;
+    left: 0rem;
     width: 100%;
     border-bottom: 0.1rem solid var(--light-gray-color);
     z-index: 1;
@@ -19,6 +19,7 @@
 .menu h1 {
     font-size: 2.3rem;
     color: var(--primary-color);
+    left: 2rem;
 }
 
 .menu h1 a {

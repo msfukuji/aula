@@ -54,15 +54,15 @@ img {
 }
 
 .produtos__lista__item__conteudo__informacoes h3 {
-    margin: 1rem;
+    margin: 2rem;
 }
 
 .produtos__lista__item__conteudo__informacoes p {
-    margin: 1rem;
+    margin: 1.5rem;
 }
 
 .produtos__lista__item__conteudo__informacoes h4 {
-    font-size: 1.5rem;
+    font-size: 2rem;
     margin: 1rem;
 }
 

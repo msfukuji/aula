@@ -22,8 +22,9 @@
 } */
 
 .menu h1 a {
-    padding: 4rem;
+    padding: 2rem;
     color: inherit;
+    font-size: 4;
     text-decoration: none;
     white-space: nowrap;
     text-transform: uppercase;

@@ -51,6 +51,7 @@ img {
 
 .produtos__lista__item__conteudo__informacoes {
     text-align: center;
+    white-space: nowrap;
 }
 
 .produtos__lista__item__conteudo__informacoes h3 {

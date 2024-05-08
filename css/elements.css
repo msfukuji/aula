@@ -27,9 +27,10 @@ h6 {
     font-family: 'Sedan SC', serif;
 } */
 
-h1 {
+h1 a {
     font-size: 6rem;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 h2 {
@@ -40,11 +41,11 @@ h2 {
 }
 
 h3 {
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 h4 {
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 h5 {
@@ -55,7 +56,8 @@ h6 {
     font-size: 3.5rem;
 }
 
-a {
+li a {
+    font-size: 1.5rem;
     text-decoration: none;
 }
 

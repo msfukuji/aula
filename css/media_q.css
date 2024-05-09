@@ -19,7 +19,7 @@
     }
 
     .menu-spacing {
-        background-color: var(--gray-color);
+        background-image: url('../assets/main-bg.svg');
     }
 
     .close-menu-label::after {

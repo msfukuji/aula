@@ -111,7 +111,7 @@ footer {
     text-decoration: none;
 }
 .main-bg {
-    background-image:url('../texture.jpg');
+    background-image: url('../assets/main-bg.svg');
     background-size: cover;
     background-position: center center;
     color: var(--white-color);

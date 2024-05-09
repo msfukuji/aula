@@ -2,7 +2,6 @@
     .menu {
         bottom: 0;
         text-align: center;
-        background-color: var(--gray-color);
     }
 
     .menu-content,
@@ -14,9 +13,13 @@
     .menu-content {
         height: 100vh;
     }
-    
+
     .menu {
         display: none;
+    }
+
+    .menu-spacing {
+        background-color: var(--gray-color);
     }
 
     .close-menu-label::after {
@@ -35,11 +38,11 @@
         padding: 0.5rem;
         cursor: pointer;
     }
-    
+
     .close-menu:checked~.menu {
         display: block;
     }
-    
+
     .close-menu:checked~.close-menu-label::after {
         content: '×';
         background: var(--gray-color);

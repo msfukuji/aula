@@ -19,7 +19,7 @@
     }
 
     .menu-spacing {
-        background-color: var(--light-gray-color);
+        background-color: var(--gray-color);
     }
 
     .close-menu-label::after {
@@ -28,7 +28,7 @@
         z-index: 2;
         top: 1rem;
         right: 2rem;
-        background: var(--white-color);
+        background: var(--no-color);
         color: var(--primary-color);
         font-size: 3rem;
         line-height: 3rem;

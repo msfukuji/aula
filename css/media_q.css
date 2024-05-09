@@ -19,7 +19,7 @@
     }
 
     .menu-spacing {
-        background-color: var(--gray-color);
+        background-color: var(--light-gray-color);
     }
 
     .close-menu-label::after {

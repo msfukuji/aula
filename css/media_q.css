@@ -19,7 +19,7 @@
     }
 
     .menu-spacing {
-        background-image: url('../assets/main-bg.svg');
+        background-color: var(--gray-color);
     }
 
     .close-menu-label::after {
@@ -28,7 +28,7 @@
         z-index: 2;
         top: 1rem;
         right: 2rem;
-        background-image: url('../assets/main-bg.svg');
+        background: var(--white-color);
         color: var(--primary-color);
         font-size: 3rem;
         line-height: 3rem;
@@ -45,7 +45,7 @@
 
     .close-menu:checked~.close-menu-label::after {
         content: '×';
-        background-image: url('../assets/main-bg.svg');
+        background: var(--gray-color);
         color: var(--primary-color);
     }
 }

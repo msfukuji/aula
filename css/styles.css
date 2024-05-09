@@ -69,6 +69,7 @@ img {
 .produtos__lista__item__conteudo__informacoes h4 {
     margin: 1rem;
     font-size: 3rem;
+    white-space: nowrap;
 }
 
 .produtos__lista__item__conteudo__informacoes s {

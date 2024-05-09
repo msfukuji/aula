@@ -110,3 +110,9 @@ footer {
     transform: rotate(-90deg);
     text-decoration: none;
 }
+.main-bg {
+    background-image: url('');
+    background-size: cover;
+    background-position: center center;
+    color: var(--white-color);
+}

@@ -47,7 +47,7 @@ img {
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-family: 'Shantell Sans', cursive;
+    font-family: 'Noto Serif', serif;
 }
 
 .produtos__lista__item__conteudo__informacoes {

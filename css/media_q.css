@@ -30,7 +30,7 @@
         right: 2rem;
         background: var(--no-color);
         color: var(--primary-color);
-        font-size: 3rem;
+        font-size: 4rem;
         line-height: 3rem;
         width: 3rem;
         height: 3rem;
@@ -45,7 +45,7 @@
 
     .close-menu:checked~.close-menu-label::after {
         content: '×';
-        background: var(--gray-color);
+        background: var(--no-color);
         color: var(--primary-color);
     }
 }

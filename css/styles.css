@@ -96,7 +96,7 @@ footer {
 
 .back-to-top {
     position: fixed;
-    bottom: 4rem;
+    bottom: 4.5rem;
     right: 0.5rem;
     background: var(--white-color);
     width: 3rem;
